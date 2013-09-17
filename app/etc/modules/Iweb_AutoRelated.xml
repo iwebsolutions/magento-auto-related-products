@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Iweb_AutoRelated>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Iweb_AutoRelated>
+    </modules>
+</config>
